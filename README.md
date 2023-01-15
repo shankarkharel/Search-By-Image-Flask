@@ -46,7 +46,7 @@ python app.py
 ## Citation
 
     @misc{sis,
-	    author = {Yusuke Matsui},
+	    author = {Shankar Kharel},
 	    title = {Simple Image Search Engine},
 	    howpublished = {\url{https://github.com/matsui528/sis}}
     }
