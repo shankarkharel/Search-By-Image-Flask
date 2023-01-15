@@ -48,7 +48,6 @@ python app.py
     @misc{sis,
 	    author = {Shankar Kharel},
 	    title = {Simple Image Search Engine},
-	    howpublished = {\url{https://github.com/matsui528/sis}}
     }
 
 
